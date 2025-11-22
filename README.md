@@ -48,7 +48,7 @@ npm run start
 ## Project Structure
 
 ```
-volt-ai/
+mini code copilot/
 ├── app/
 │   ├── layout.tsx          # Root layout with metadata
 │   ├── page.tsx            # Main page component
