@@ -197,7 +197,7 @@ For issues or suggestions, please open a GitHub issue or contact the maintainer.
 
 ---
 
-**Live Demo**: 
+**Live Demo**: https://automation-edge-frontend-assignment.vercel.app/
 
 **GitHub Repository**: [https://github.com/amitgithub947/AutomationEdge-frontend-assignment]
 
