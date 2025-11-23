@@ -48,7 +48,7 @@ npm run start
 ## Project Structure
 
 ```
-volt-ai/
+code-ai/
 ├── app/
 │   ├── layout.tsx          # Root layout with metadata
 │   ├── page.tsx            # Main page component
@@ -130,9 +130,9 @@ History items are stored with this structure:
 }
 ```
 
-**Storage Key**: `voltai_history` (Array of max 100 items)
+**Storage Key**: `history` (Array of max 100 items)
 
-**Theme Preference**: `voltai_theme` ("light" or "dark")
+**Theme Preference**: `theme` ("light" or "dark")
 
 ## Keyboard Shortcuts
 
