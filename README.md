@@ -161,20 +161,6 @@ For production with a real API, add:
 NEXT_PUBLIC_API_URL=https://your-api.com
 ```
 
-## Browser Support
-
-- Chrome/Edge 90+
-- Firefox 88+
-- Safari 14+
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## Accessibility
-
-- Fully keyboard navigable
-- ARIA labels on all interactive elements
-- Sufficient color contrast (WCAG AA)
-- Proper heading hierarchy
-- Semantic HTML structure
 
 ## Future Enhancements
 
@@ -186,14 +172,6 @@ NEXT_PUBLIC_API_URL=https://your-api.com
 - Custom snippet templates
 - Language/framework specific prompts
 - Code quality analysis
-
-## License
-
-MIT
-
-## Support
-
-For issues or suggestions, please open a GitHub issue or contact the maintainer.
 
 ---
 

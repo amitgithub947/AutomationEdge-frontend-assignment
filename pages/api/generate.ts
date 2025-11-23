@@ -1,5 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { findSnippet } from '../../lib/mockSnippets';
+import { getSnippet } from '../../lib/mockSnippets';
 
 interface ResponseData {
   code?: string;
@@ -30,7 +30,7 @@ export default async function handler(
 
   await simulateDelay();
 
-  const code = findSnippet(prompt, selectedLanguage);
+  const code = getSnippet(selectedLanguage);
 
   return res.status(200).json({
     code,
